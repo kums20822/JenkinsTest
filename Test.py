@@ -1,0 +1,1 @@
+print ("Created first git project")
